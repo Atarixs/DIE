@@ -1,0 +1,16 @@
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Coffee Shop.exe.config
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Coffee Shop.exe
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Coffee Shop.pdb
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\El Cafecito.csprojAssemblyReference.cache
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Articulos.resources
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginAuth.resources
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sales.resources
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ManagerControl.resources
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ReporteVentas.resources
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\El Cafecito.csproj.GenerateResource.cache
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\El Cafecito.csproj.CoreCompileInputs.cache
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\El Cafecito.csproj.CopyComplete
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Coffee Shop.exe
+C:\Users\Vibiz\Downloads\EDSON-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Coffee Shop.pdb
